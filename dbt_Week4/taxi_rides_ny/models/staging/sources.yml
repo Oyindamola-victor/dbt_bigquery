@@ -7,6 +7,6 @@ sources:
     schema:  week_4_analytics
     tables:
       - name: yellow_tripdata
-        description: "Yellow taxi trip data"
+        description: "Raw yellow taxi trip data"
       - name: green_tripdata
-        description: "Green taxi trip data"
+        description: "Raw green taxi trip data"
